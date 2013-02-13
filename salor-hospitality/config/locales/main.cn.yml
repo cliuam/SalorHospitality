@@ -3,7 +3,7 @@ cn:
   activerecord:
     attributes:
       article:
-        active: 活躍
+        active: 活躍/活跃
         category_id: 類別
         description: 描述
         hidden: 刪除嗎?
